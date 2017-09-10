@@ -1,0 +1,6 @@
+.svn/
+bin_unix/native_*
+src/tess_client
+src/tess_server
+*.o
+*.gch
